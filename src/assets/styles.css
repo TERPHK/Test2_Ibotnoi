@@ -1,0 +1,36 @@
+
+  
+  button {
+    background-color: #dcbb00; /* สีพื้นหลังของปุ่ม */
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #f8de48; 
+  }
+  
+  
+  .pokemon-image {
+    max-width: 200px;
+    max-height: 200px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+  }
+  
+  h1, h2 {
+    color: #dcbb00;
+  }
+  
